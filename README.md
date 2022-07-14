@@ -1,4 +1,4 @@
-# VtM 20th Edition, NPC Generator, Campaign Assistant
+# VtM 5th Edition, NPC Generator, Campaign Assistant
 
 
 
